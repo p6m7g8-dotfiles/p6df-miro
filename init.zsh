@@ -23,5 +23,5 @@ p6df::modules::miro::deps() {
 ######################################################################
 p6df::modules::miro::profile::mod() {
 
-  p6_return_words 'miro' '$MIRO_API_KEY'
+  p6_return_words 'miro' "$"
 }
