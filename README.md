@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-miro/init.zsh
 
 - `p6df::modules::miro::deps()`
-- `words miro $MIRO_API_KEY = p6df::modules::miro::profile::mod()`
+- `words miro = p6df::modules::miro::profile::mod()`
 
 ## Hierarchy
 

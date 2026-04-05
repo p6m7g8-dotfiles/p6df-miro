@@ -13,10 +13,10 @@ p6df::modules::miro::deps() {
 ######################################################################
 #<
 #
-# Function: words miro $MIRO_API_KEY = p6df::modules::miro::profile::mod()
+# Function: words miro = p6df::modules::miro::profile::mod()
 #
 #  Returns:
-#	words - miro $MIRO_API_KEY
+#	words - miro
 #
 #  Environment:	 MIRO_API_KEY
 #>
